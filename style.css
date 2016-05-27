@@ -1,0 +1,17 @@
+.container {
+    background-color: #ffffff; 
+    width: 80%;
+    margin: fixed;
+    padding: 100px;
+}
+
+.header{
+    color: #2ecc71;
+    padding-left: 20%;
+    
+}
+
+.col {
+    color: #64b5f6;
+    text-align: center;
+}
